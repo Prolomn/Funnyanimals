@@ -1,0 +1,11 @@
+body {
+	text-align: center;
+	background-color: #00BFFF;
+color: white
+}
+button.png {
+position:relative;
+float:right; 
+top:100%; 
+margin-top:-24px; 
+}
